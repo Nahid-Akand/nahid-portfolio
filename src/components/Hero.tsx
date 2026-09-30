@@ -8,7 +8,7 @@ export default function Hero() {
         <p className="hero-greeting">Hello, I’m</p>
 
         <h1>
-          Nahid Akanda
+          Nahid Akand
         </h1>
 
         <h2>

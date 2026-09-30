@@ -28,7 +28,7 @@ export default function About() {
           </h3>
 
           <p>
-            I’m Nahid Akanda, a Computer Science graduate and aspiring
+            I’m Nahid Akand, a Computer Science graduate and aspiring
             Full Stack Web Developer who enjoys building modern and
             practical web applications.
           </p>
