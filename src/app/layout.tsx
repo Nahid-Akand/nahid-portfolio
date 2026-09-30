@@ -8,9 +8,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nahid Akanda | Full Stack Developer",
+  title: "Nahid Akand | Full Stack Developer",
   description:
-    "Portfolio of Nahid Akanda, a Full Stack Web Developer.",
+    "Portfolio of Nahid Akand, a Full Stack Web Developer.",
 };
 
 export default function RootLayout({
