@@ -48,7 +48,7 @@ export default function Hero() {
         <div className="hero-image">
           <Image
             src="/images/nahid.jpg"
-            alt="Nahid Akanda"
+            alt="Nahid Akand"
             width={420}
             height={420}
             priority
