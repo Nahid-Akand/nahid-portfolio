@@ -12,7 +12,7 @@ export default function About() {
           <div className="about-image">
             <Image
               src="/images/my my.jpg"
-              alt="Nahid Akanda"
+              alt="Nahid Akand"
               width={500}
               height={600}
             />
