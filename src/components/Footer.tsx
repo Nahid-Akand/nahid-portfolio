@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="footer-main">
           <div className="footer-brand">
             <Link href="#home" className="footer-logo">
-              Nahid<span>.</span>
+              Nahid
             </Link>
 
             <p>

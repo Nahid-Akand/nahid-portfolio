@@ -50,7 +50,7 @@ export default function About() {
           <div className="about-info">
             <div className="about-info-item">
               <span className="info-label">Name</span>
-              <span className="info-value">Nahid Akanda</span>
+              <span className="info-value">Nahid Akand</span>
             </div>
 
             <div className="about-info-item">
