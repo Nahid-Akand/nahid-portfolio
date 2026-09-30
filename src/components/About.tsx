@@ -28,7 +28,7 @@ export default function About() {
           </h3>
 
           <p>
-            I’m Nahid Akand, a Computer Science graduate and aspiring
+            I’m Nahid Akanda, a Computer Science graduate and aspiring
             Full Stack Web Developer who enjoys building modern and
             practical web applications.
           </p>
@@ -55,16 +55,21 @@ export default function About() {
 
             <div className="about-info-item">
               <span className="info-label">Email</span>
-              <span className="info-value">jahidnahid19@gmail.com</span>
+              <span className="info-value">
+                jahidnahid19@gmail.com
+              </span>
             </div>
 
             <div className="about-info-item">
               <span className="info-label">Location</span>
-              <span className="info-value">Dhaka, Bangladesh</span>
+              <span className="info-value">
+                Dhaka, Bangladesh
+              </span>
             </div>
 
             <div className="about-info-item">
               <span className="info-label">Availability</span>
+
               <span className="info-value available">
                 <span></span>
                 Open to Work
@@ -72,6 +77,7 @@ export default function About() {
             </div>
           </div>
 
+          {/* Download CV */}
           <a
             href="/images/nahid-portf.pdf"
             download="Nahid-Akanda-CV.pdf"

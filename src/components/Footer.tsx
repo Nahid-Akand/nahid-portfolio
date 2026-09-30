@@ -35,11 +35,14 @@ export default function Footer() {
               <h3>More</h3>
 
               <Link href="#education">Education</Link>
+
               <Link href="#certifications">
                 Certifications
               </Link>
+
               <Link href="#contact">Contact</Link>
 
+              {/* Download CV */}
               <a
                 href="/images/nahid-portf.pdf"
                 download="Nahid-Akanda-CV.pdf"
